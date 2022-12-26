@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Naveen Gaonkar</h1>
+<h1 align="center">Hi 👋, I'm Naveen </h1>
 <h3 align="center">A passionate fullstack developer from Karnataka , India</h3>
-<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width = '400px'>
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width = '500px'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaonkarbhai&label=Profile%20views&color=0e75b6&style=flat" alt="gaonkarbhai" /> </p>
 
 - 🌱 I’m currently learning **React.js**
