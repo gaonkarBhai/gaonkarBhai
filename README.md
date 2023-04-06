@@ -65,11 +65,14 @@
 ###
 
 <div align="center">
-  
-  
-
-  <img src="https://streak-stats.demolab.com?user=gaonkarBhai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+   <img src="https://streak-stats.demolab.com?user=gaonkarBhai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div><br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaonkarBhai&show_icons=true&count_private=true&hide_border=true" height="220" alt="GitHub stats" />
+  </div>
 </div>
+
+
 
 ###
 
