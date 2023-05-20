@@ -29,10 +29,15 @@
 
 ###
 
-<p align="left">Hey there, I'm a BE student from Karnataka who spends most of  time glued to a computer screen. Here are a few things you might find interesting about me:<br><br>
- - 🔭 I'm working as a professional "multitasker" - I can juggle studying for exams, working on projects, and procrastinating all at the same time.<br>
- - 📚 I'm currently learning the art of balancing my coursework with my love for "coding marathons", where I can spend hours on end building projects and learning new    skills.<br>
- - ⚡ In my free time, I enjoy bettering with new coding frameworks and tools, contributing to open-source projects, and occasionally taking a break (to watch technogamerz GTA videos).</p>
+Hey there, I'm a BE student from Karnataka who spends most of  time glued to a computer screen. Here are a few things you might find interesting about me:<br><br>
+  
+* I love coding, but I hate debugging.<br>
+* I love learning, but I hate exams.<br>
+* I love engineering, but I hate the long hours.<br>
+
+ - 🔭 I'm a professional "multitasker" - I can do a lot of things at the same time, like studying for exams, working on projects, and procrastinating.<br>
+ - 📚 I'm currently learning how to balance my schoolwork with my love of coding, where I can spend hours building projects and learning new skills.<br>
+ - ⚡ In my free time, I enjoy learning about new coding frameworks and tools, contributing to open-source projects, and sometimes taking a break to watch Technogamerz GTA videos.
 
 ###
 
@@ -40,7 +45,9 @@
 
 ###
 
-<h5 align="left">As a budding programmer, I speak many languages - Here are some of the languages I'm fluent in:</h5>
+<p align="left">
+As a beginner programmer, here are some of the languages I'm fluent in:
+</p>
 
 ###
 
