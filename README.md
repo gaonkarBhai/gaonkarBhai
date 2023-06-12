@@ -37,7 +37,7 @@ Hey there, I'm a BE student from Karnataka who spends most of  time glued to a c
 
  - 🔭 I'm a professional "multitasker" - I can do a lot of things at the same time, like studying for exams, working on projects, and procrastinating.<br>
  - 📚 I'm currently learning how to balance my schoolwork with my love of coding, where I can spend hours building projects and learning new skills.<br>
- - ⚡ In my free time, I enjoy learning about new coding frameworks and tools, contributing to open-source projects, and sometimes taking a break to watch Technogamerz GTA videos.
+ - ⚡ In my free time, I enjoy learning about new coding frameworks and tools, contributing to open-source projects, and sometimes taking a break to watch NYT videos.
 
 ###
 
