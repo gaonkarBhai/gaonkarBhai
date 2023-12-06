@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4YWMzZmY2MWMzMmNlOGU5Y2M3MjRkOTY5M2QzMzA1ZDJmZDcwMSZjdD1n/xUA7bdpLxQhsSQdyog/giphy.gif"  />
+<!--   <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY4YWMzZmY2MWMzMmNlOGU5Y2M3MjRkOTY5M2QzMzA1ZDJmZDcwMSZjdD1n/xUA7bdpLxQhsSQdyog/giphy.gif"  /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=900&height=150&lines=Hi%2C+I'm+Naveen;just+another+human+trying+to+make+sense+of;code+and+coffee" alt="Typing SVG" />
 </div>
 
 ###
@@ -21,23 +22,26 @@
 
 ###
 
- <h1 align="center">Hi there, I'm Naveen <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="30px" height="30px"></h1>
+ <!--<h1 align="center">Hi there, I'm Naveen <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="30px" height="30px"></h1>-->
 
-###
+
 
 <h2 align="left">About Me ☺</h2>
 
 ###
 
-Hey there, I'm a BE student from Karnataka who spends most of  time glued to a computer screen. Here are a few things you might find interesting about me:<br><br>
+A BE student from Karnataka who's basically just a human stuck in front of a computer. Here are a few things you might find interesting about me:<br><br>
   
 * I love coding, but I hate debugging.<br>
 * I love learning, but I hate exams.<br>
 * I love engineering, but I hate the long hours.<br>
 
  - 🔭 I'm a professional "multitasker" - I can do a lot of things at the same time, like studying for exams, working on projects, and procrastinating.<br>
+ 
  - 📚 I'm currently learning how to balance my schoolwork with my love of coding, where I can spend hours building projects and learning new skills.<br>
- - ⚡ In my free time, I enjoy learning about new coding frameworks and tools, contributing to open-source projects, and sometimes taking a break to watch NYT videos.
+ - In the moments when I'm not buried in textbooks:
+   - ⚡ I enjoy learning about new frameworks and tools
+   - ⚡ Sometimes taking a break to watch NYT  videos—gotta keep that brain entertained!
 
 ###
 
@@ -75,7 +79,8 @@ As a beginner programmer, here are some of the languages I'm fluent in:
    <img src="https://streak-stats.demolab.com?user=gaonkarBhai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div><br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaonkarBhai&show_icons=true&count_private=true&hide_border=true" height="220" alt="GitHub stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=gaonkarBhai&show_icons=true&count_private=true&hide_border=true" height="220" alt="GitHub stats" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaonkarBhai&theme=github_dark" >
   </div>
 </div>
 
