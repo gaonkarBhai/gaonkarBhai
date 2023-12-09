@@ -12,7 +12,7 @@
   <a href="mailto:naveengaonkar014@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-<a href="https://www.npmjs.com/package/find-naveen?activeTab=readme"><img src="https://img.shields.io/badge/npx-find--naveen-e8200e" alt="npx - find-naveen" height="25"></a>
+<a href="#"><img src="https://img.shields.io/badge/npx-find--naveen-e8200e" alt="npx - find-naveen" height="25"></a>
 </div>
 
 ###
