@@ -27,18 +27,7 @@
 
 ###
 
-A BE student from Karnataka who's basically just a human stuck in front of a computer. Here are a few things you might find interesting about me:<br><br>
-  
-* I love coding, but I hate debugging.<br>
-* I love learning, but I hate exams.<br>
-* I love engineering, but I hate the long hours.<br>
-
- - 🔭 I'm a professional "multitasker" - I can do a lot of things at the same time, like studying for exams, working on projects, and procrastinating.<br>
- 
- - 📚 I'm currently learning how to balance my schoolwork with my love of coding, where I can spend hours building projects and learning new skills.<br>
- - In the moments when I'm not buried in textbooks:
-   - ⚡ I enjoy learning about new frameworks and tools
-   - ⚡ Sometimes taking a break to watch NYT  videos—gotta keep that brain entertained!
+A BE student from Karnataka who's basically just a human stuck in front of a computer. 
 
 ###
 
