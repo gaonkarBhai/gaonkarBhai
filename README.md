@@ -23,11 +23,11 @@
 
 ###
 
-<h2 align="left">About Me <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30"> </h2>
+<h2 align="left">About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> </h2>
 
 ###
 
-A BE student from Karnataka who's basically just a human stuck in front of a computer. 
+A BE student from Karnataka who's basically just a human stuck in front of a computer  but always up for the next challenge. Just trying to level up in both life and tech.
 
 ###
 
@@ -58,6 +58,8 @@ A BE student from Karnataka who's basically just a human stuck in front of a com
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
 </p>
 
 
